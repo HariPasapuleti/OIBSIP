@@ -14,7 +14,7 @@ The aim of the iris flower classification is to predict flowers based on their s
 •	Required packages are for this project is pandas, numpy, matplotlib, seaborn, pickle, sklearn, Logistic Regression, Decision Tree, K-Neighbors, Naïve Bayes, SVC.
 
 •	Model trained and tested with supportive models like Decision Tree, K-Neighbors, Naïve Bayes, SVC
-## Task2 - Unemployment Prediction
+<!-- ## Task2 - Unemployment Prediction
 Unemployment Analysis with machine learning .Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19.
 
 • The project code completely done using Python 
@@ -24,7 +24,8 @@ Unemployment Analysis with machine learning .Unemployment is measured by the une
 •	This project dataset contains  Unemployment in India dataset Unemployment in India.csv and Unemployment_Rate_upto_11_2020.csv link :
 
      https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
-## Task3 - Car Price Prediction
+-->
+## Task2 - Car Price Prediction
 To be able to predict used cars market value can help both buyers and sellers. There are lots of individuals who are interested in the used car market at some points in their life because they wanted to sell their car or buy a used car. In this process, it’s a big corner to pay too much or sell less then it’s market value.
 
 • The project code completely done using Python
@@ -34,7 +35,7 @@ To be able to predict used cars market value can help both buyers and sellers. T
 •	This project dataset contains CarPrice dataset CarPrice.csv link :
 
       https://github.com/amankharwal/Website-data/blob/master/CarPrice.csv
-## Task4 - Email Spam Detection
+## Task3 - Email Spam Detection
 One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.
 
 • The project code completely done using Python
@@ -44,7 +45,7 @@ One of the primary methods for spam mail detection is email filtering. It involv
 •	This project dataset contains spam dataset spam.csv link :
 
       https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
-## Task5 - Sales Prediction
+## Task4 - Sales Prediction
 Predicting the sales of a store
 
 • The project code completely done using Python
